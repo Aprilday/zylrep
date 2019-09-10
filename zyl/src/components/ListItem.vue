@@ -104,7 +104,7 @@ export default {
             font-size: 16px;
             color: #f63;
             span {
-                font-size: 24px;
+                font-size: 20px;
             }
         }
         .cube-btn {

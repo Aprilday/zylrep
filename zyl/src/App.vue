@@ -11,11 +11,11 @@
 
 <script>
 // import item from './components/Item';
-import item from './components/Item1';
+import item from './components/ListItem';
 import asideMenu from './components/menu';
 import { BetterScroll } from 'cube-ui';
 // const env = 'http://localhost:5050'
-const env = ''
+const env = 'https://cakesh.applinzi.com';
 const API = {
     search: env + '/index/getList'
 }
